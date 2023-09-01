@@ -29,8 +29,9 @@ This acts as an easier user interface to create, adapt and organise through thre
 Creator - Freeman 
 https://www.youtube.com/@freeman9134/featured 
 
->LIMITATIONS<
-Pathway requires at LEAST ONE Autochooser file in the same folder
-It can only execute one folder and not subfolders within the folder.
+>LIMITATIONS and Issues<
+- Pathway requires at LEAST ONE Autochooser file in the same folder
+- It can only execute one folder and not subfolders within the folder.
+- Subfolders Names MUST NOT have Brackets will result in a error
 
 CODED IN: Python
