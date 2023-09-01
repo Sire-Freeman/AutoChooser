@@ -29,7 +29,7 @@ This acts as an easier user interface to create, adapt and organise through thre
 Creator - Freeman 
 https://www.youtube.com/@freeman9134/featured 
 
->LIMITATIONS and Issues<
+>LIMITATIONS and ISSUES<
 - Pathway requires at LEAST ONE Autochooser file in the same folder
 - It can only execute one folder and not subfolders within the folder.
 - Subfolder Names MUST NOT have brackets and MUST MATCH the front bracket will result in an error
