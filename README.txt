@@ -32,6 +32,6 @@ https://www.youtube.com/@freeman9134/featured
 >LIMITATIONS and Issues<
 - Pathway requires at LEAST ONE Autochooser file in the same folder
 - It can only execute one folder and not subfolders within the folder.
-- Subfolders Names MUST NOT have Brackets will result in a error
+- Subfolder Names MUST NOT have brackets and MUST MATCH the front bracket will result in an error
 
 CODED IN: Python
