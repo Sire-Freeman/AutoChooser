@@ -2,7 +2,7 @@
 AUTO CHOOSER PROJECT (Alpha Stage)
 
 >Installation<
-Place the AutoChooser()().exe and The Pathway.exe into the same folder as your Sound Library Folder.
+Place the AutoChooser()().exe and The Pathway.exe into the same folder as your Sound Library Folder (with subfolders of sounds).
 
 >AutoChooser.exe<
 The AutoChooser programs are designed to act as a middleman between external software to allow the execution of a random sound file (wav. and .mp3) in a folder in the same directory. 
